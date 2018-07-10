@@ -1,0 +1,10 @@
+name: Telephone
+version: 1.0
+description: Fieldtype de telefone pt-br
+url: -
+developer: Diego Silva
+developer_url: http://dsilva.eti.br
+fieldtype_fields:
+  mask:
+    type: array
+    width: 50
